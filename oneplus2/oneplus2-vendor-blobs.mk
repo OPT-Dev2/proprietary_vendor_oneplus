@@ -131,7 +131,6 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/vendor/bin/audioflacapp:/system/vendor/bin/audioflacapp \
         vendor/oneplus/oneplus2/proprietary/vendor/bin/qti:/system/vendor/bin/qti \
         vendor/oneplus/oneplus2/proprietary/vendor/bin/slim_ap_daemon:/system/vendor/bin/slim_ap_daemon \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib/drm/libdrmwvmplugin.so:/system/vendor/lib/drm/libdrmwvmplugin.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/egl/eglSubDriverAndroid.so:/system/vendor/lib/egl/eglSubDriverAndroid.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/egl/libEGL_adreno.so:/system/vendor/lib/egl/libEGL_adreno.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:/system/vendor/lib/egl/libGLESv1_CM_adreno.so \
@@ -187,7 +186,6 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libStDrvInt.so:/system/vendor/lib/libStDrvInt.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libSubSystemShutdown.so:/system/vendor/lib/libSubSystemShutdown.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libTimeService.so:/system/vendor/lib/libTimeService.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:/system/vendor/lib/libWVStreamControlAPI_L3.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libacdb-fts.so:/system/vendor/lib/libacdb-fts.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libacdbloader.so:/system/vendor/lib/libacdbloader.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libacdbmapper.so:/system/vendor/lib/libacdbmapper.so \
@@ -451,15 +449,12 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libwfduibcsrcinterface.so:/system/vendor/lib/libwfduibcsrcinterface.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libwifiscanner.so:/system/vendor/lib/libwifiscanner.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libwqe.so:/system/vendor/lib/libwqe.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib/libwvdrm_L3.so:/system/vendor/lib/libwvdrm_L3.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib/libwvm.so:/system/vendor/lib/libwvm.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libxml.so:/system/vendor/lib/libxml.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libxt_native.so:/system/vendor/lib/libxt_native.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libxtadapter.so:/system/vendor/lib/libxtadapter.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libxtwifi_ulp_adaptor.so:/system/vendor/lib/libxtwifi_ulp_adaptor.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libxtwifi_zpp_adaptor.so:/system/vendor/lib/libxtwifi_zpp_adaptor.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:/system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:/system/vendor/lib/mediadrm/libwvdrmengine.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/qcdrm/playready/lib/drm/libdrmprplugin_customer.so:/system/vendor/lib/qcdrm/playready/lib/drm/libdrmprplugin_customer.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/qcdrm/playready/lib/libprdrmdecrypt_customer.so:/system/vendor/lib/qcdrm/playready/lib/libprdrmdecrypt_customer.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/qcdrm/playready/lib/libtzplayready_customer.so:/system/vendor/lib/qcdrm/playready/lib/libtzplayready_customer.so \
